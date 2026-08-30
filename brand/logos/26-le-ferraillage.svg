@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Ferraillage — Hustin Bâtiment">
+<g stroke="#191817" stroke-width="4.5">
+<line x1="34" y1="12" x2="34" y2="108"/><line x1="52" y1="12" x2="52" y2="108"/>
+<line x1="70" y1="12" x2="70" y2="108"/><line x1="88" y1="12" x2="88" y2="108"/>
+</g>
+<rect x="24" y="24" width="74" height="14" rx="5" fill="none" stroke="#191817" stroke-width="3"/>
+<rect x="24" y="54" width="74" height="14" rx="5" fill="none" stroke="#E8501E" stroke-width="3"/>
+<rect x="24" y="84" width="74" height="14" rx="5" fill="none" stroke="#191817" stroke-width="3"/>
+</svg>

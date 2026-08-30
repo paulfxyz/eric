@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Nord — Hustin Bâtiment">
+<circle cx="60" cy="60" r="46" fill="none" stroke="#191817" stroke-width="4"/>
+<path d="M60 20 L46 80 L60 68 Z" fill="#191817"/>
+<path d="M60 20 L74 80 L60 68 Z" fill="#E8501E"/>
+<text x="60" y="98" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:850;letter-spacing:0px" fill="#191817">N</text>
+</svg>

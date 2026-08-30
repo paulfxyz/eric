@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Croix de repérage — Hustin Bâtiment">
+<line x1="60" y1="14" x2="60" y2="106" stroke="#191817" stroke-width="3.5"/>
+<line x1="14" y1="60" x2="106" y2="60" stroke="#191817" stroke-width="3.5"/>
+<circle cx="60" cy="60" r="27" fill="none" stroke="#191817" stroke-width="3"/>
+<path d="M60 60 L60 33 A27 27 0 0 1 87 60 Z" fill="#191817"/>
+<path d="M60 60 L60 87 A27 27 0 0 1 33 60 Z" fill="#E8501E"/>
+</svg>

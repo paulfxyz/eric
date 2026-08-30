@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="L&#x27;Axonométrie — Hustin Bâtiment">
+<path d="M60 18 L96 38 L60 58 L24 38 Z" fill="none" stroke="#191817" stroke-width="4"/>
+<path d="M24 38 V80 L60 100 V58 Z" fill="none" stroke="#191817" stroke-width="4"/>
+<path d="M96 38 V80 L60 100 V58 Z" fill="#191817"/>
+<circle cx="60" cy="58" r="5" fill="#E8501E"/>
+</svg>

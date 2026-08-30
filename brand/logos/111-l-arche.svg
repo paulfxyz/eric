@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-label="L&#x27;Arche — Hustin Bâtiment">
+<defs><path id="hbArc111" d="M55 88 A145 145 0 0 1 265 88" fill="none"/></defs>
+<text style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:28px;font-weight:900;letter-spacing:5px" fill="#191817"><textPath href="#hbArc111" startOffset="50%" text-anchor="middle">HUSTIN</textPath></text>
+<text x="163.5" y="106" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:12px;font-weight:600;letter-spacing:7px" fill="#191817">BÂTIMENT</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Porte-à-faux — Hustin Bâtiment">
+<rect x="26" y="20" width="16" height="24" fill="#191817"/>
+<rect x="26" y="44" width="80" height="13" fill="#191817"/>
+<rect x="26" y="57" width="16" height="47" fill="#191817"/>
+<line x1="96" y1="66" x2="96" y2="84" stroke="#E8501E" stroke-width="3.5"/>
+<path d="M90 78 L96 88 L102 78" fill="none" stroke="#E8501E" stroke-width="3.5"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Béton banché — Hustin Bâtiment">
+<rect x="18" y="18" width="84" height="84" fill="none" stroke="#191817" stroke-width="5"/>
+<rect x="18" y="44" width="84" height="3" fill="#E8501E"/>
+<line x1="18" y1="74" x2="102" y2="74" stroke="#191817" stroke-width="2.4"/>
+<g fill="#191817">
+<circle cx="34" cy="32" r="1.8"/><circle cx="58" cy="28" r="1.4"/><circle cx="82" cy="36" r="1.8"/>
+<circle cx="44" cy="58" r="1.6"/><circle cx="70" cy="62" r="1.9"/><circle cx="90" cy="54" r="1.4"/>
+<circle cx="30" cy="88" r="1.7"/><circle cx="54" cy="94" r="1.4"/><circle cx="78" cy="86" r="1.8"/><circle cx="94" cy="94" r="1.4"/>
+</g>
+</svg>

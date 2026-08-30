@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Jeton HB — Hustin Bâtiment">
+<circle cx="60" cy="60" r="52" fill="none" stroke="#191817" stroke-width="4"/>
+<circle cx="60" cy="60" r="38" fill="none" stroke="#191817" stroke-width="1.4"/>
+<defs><path id="arc16" d="M22 60 A38 38 0 0 1 98 60"/></defs>
+<text style="font-family:'IBM Plex Mono','Courier New',monospace;font-size:9px;font-weight:500;letter-spacing:2.5px" fill="#191817">
+<textPath href="#arc16" startOffset="50%" text-anchor="middle">HUSTIN BÂTIMENT</textPath></text>
+<text x="60" y="78" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:28px;font-weight:850;letter-spacing:1px" fill="#191817">HB</text>
+<rect x="56" y="88" width="8" height="8" transform="rotate(45 60 92)" fill="#E8501E"/>
+</svg>

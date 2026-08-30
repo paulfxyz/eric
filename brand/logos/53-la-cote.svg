@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="La Cote — Hustin Bâtiment">
+<line x1="16" y1="66" x2="104" y2="66" stroke="#191817" stroke-width="2.6"/>
+<line x1="16" y1="54" x2="16" y2="78" stroke="#191817" stroke-width="2.6"/>
+<line x1="104" y1="54" x2="104" y2="78" stroke="#191817" stroke-width="2.6"/>
+<path d="M11 71 L21 61 M99 71 L109 61" stroke="#E8501E" stroke-width="3"/>
+<text x="60" y="55" text-anchor="middle" style="font-family:'IBM Plex Mono','Courier New',monospace;font-size:13px;font-weight:500;letter-spacing:0.5px" fill="#191817">10,00 m</text>
+<text x="60" y="88" text-anchor="middle" style="font-family:'IBM Plex Mono','Courier New',monospace;font-size:7.5px;font-weight:500;letter-spacing:3px" fill="#191817">PORTÉE</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="La Clé HB — Hustin Bâtiment">
+<rect x="30" y="42" width="14" height="60" fill="#191817"/>
+<rect x="76" y="42" width="14" height="60" fill="#191817"/>
+<rect x="18" y="26" width="84" height="16" fill="#191817"/>
+<path d="M52 26 H68 L64 42 H56 Z" fill="#E8501E"/>
+<text x="60" y="116" text-anchor="middle" style="font-family:'IBM Plex Mono','Courier New',monospace;font-size:11px;font-weight:500;letter-spacing:3px" fill="#191817">HB</text>
+</svg>

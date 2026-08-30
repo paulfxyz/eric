@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Pont roulant — Hustin Bâtiment">
+<rect x="12" y="34" width="96" height="12" fill="#191817"/>
+<rect x="20" y="46" width="10" height="58" fill="#191817"/>
+<rect x="90" y="46" width="10" height="58" fill="#191817"/>
+<rect x="52" y="46" width="16" height="9" fill="#E8501E"/>
+<line x1="60" y1="55" x2="60" y2="76" stroke="#191817" stroke-width="2"/>
+<circle cx="60" cy="81" r="4.5" fill="none" stroke="#191817" stroke-width="3"/>
+</svg>

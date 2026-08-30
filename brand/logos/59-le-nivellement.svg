@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Nivellement — Hustin Bâtiment">
+<line x1="18" y1="58" x2="102" y2="58" stroke="#191817" stroke-width="4"/>
+<path d="M46 36 H74 L60 58 Z" fill="#191817"/>
+<g stroke="#191817" stroke-width="1.8">
+<line x1="30" y1="66" x2="24" y2="74"/><line x1="46" y1="66" x2="40" y2="74"/><line x1="62" y1="66" x2="56" y2="74"/><line x1="78" y1="66" x2="72" y2="74"/><line x1="94" y1="66" x2="88" y2="74"/>
+</g>
+<text x="60" y="96" text-anchor="middle" style="font-family:'IBM Plex Mono','Courier New',monospace;font-size:10.5px;font-weight:500;letter-spacing:1px" fill="#E8501E">+0,00 NGF</text>
+</svg>

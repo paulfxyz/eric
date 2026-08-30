@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="HB Grue — Hustin Bâtiment">
+<line x1="18" y1="26" x2="102" y2="26" stroke="#191817" stroke-width="4"/>
+<path d="M54 10 L18 26 M54 10 L102 26" fill="none" stroke="#191817" stroke-width="1.8"/>
+<line x1="94" y1="26" x2="94" y2="46" stroke="#191817" stroke-width="1.8"/>
+<circle cx="94" cy="51" r="5" fill="none" stroke="#E8501E" stroke-width="3"/>
+<text x="60" y="100" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:42px;font-weight:900;letter-spacing:1px" fill="#191817">HB</text>
+</svg>

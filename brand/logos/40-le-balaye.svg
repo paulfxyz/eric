@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Balayé — Hustin Bâtiment">
+<rect x="18" y="18" width="84" height="84" fill="none" stroke="#191817" stroke-width="5"/>
+<g stroke="#191817" stroke-width="2.4">
+<line x1="26" y1="94" x2="94" y2="26"/><line x1="26" y1="78" x2="78" y2="26"/>
+<line x1="26" y1="62" x2="62" y2="26"/><line x1="26" y1="46" x2="46" y2="26"/>
+<line x1="42" y1="94" x2="94" y2="42"/><line x1="58" y1="94" x2="94" y2="58"/>
+</g>
+<line x1="74" y1="94" x2="94" y2="74" stroke="#E8501E" stroke-width="3"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="La Poutre IPN — Hustin Bâtiment">
+<rect x="24" y="20" width="60" height="11" fill="#191817"/>
+<rect x="24" y="89" width="60" height="11" fill="#191817"/>
+<rect x="48" y="31" width="12" height="58" fill="#191817"/>
+<line x1="100" y1="20" x2="100" y2="100" stroke="#191817" stroke-width="1.6"/>
+<path d="M96 24 L104 16 M96 104 L104 96" stroke="#E8501E" stroke-width="2.4"/>
+<text x="109" y="64" text-anchor="middle" style="font-family:'IBM Plex Mono','Courier New',monospace;font-size:10px;font-weight:500;letter-spacing:0px" fill="#191817">h</text>
+</svg>

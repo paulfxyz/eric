@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="HB Chanfrein — Hustin Bâtiment">
+<path d="M28 16 H104 V92 L92 104 H16 V28 Z" fill="none" stroke="#191817" stroke-width="6"/>
+<path d="M104 92 L92 104 H104 Z" fill="#E8501E"/>
+<text x="60" y="73" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:34px;font-weight:850;letter-spacing:1px" fill="#191817">HB</text>
+</svg>

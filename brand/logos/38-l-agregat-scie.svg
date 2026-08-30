@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="L&#x27;Agrégat scié — Hustin Bâtiment">
+<path d="M16 60 A44 44 0 0 1 104 60 Z" fill="#191817"/>
+<path d="M16 60 A44 44 0 0 0 104 60 Z" fill="none" stroke="#191817" stroke-width="4"/>
+<path d="M40 72 L50 66 L54 78 L44 82 Z" fill="#191817"/>
+<path d="M62 68 L74 66 L76 80 L64 82 Z" fill="#191817"/>
+<circle cx="86" cy="74" r="3" fill="#191817"/>
+<circle cx="32" cy="88" r="2.2" fill="#191817"/>
+<circle cx="58" cy="92" r="2.6" fill="#191817"/>
+<rect x="12" y="56" width="96" height="6" fill="#E8501E"/>
+</svg>

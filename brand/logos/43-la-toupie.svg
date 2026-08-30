@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="La Toupie — Hustin Bâtiment">
+<g transform="rotate(-10 60 60)">
+<path d="M32 40 H88 L77 88 H43 Z" fill="none" stroke="#191817" stroke-width="5"/>
+<path d="M40 52 Q60 62 80 52" fill="none" stroke="#191817" stroke-width="3"/>
+<path d="M42 68 Q60 78 78 68" fill="none" stroke="#191817" stroke-width="3"/>
+<rect x="50" y="28" width="20" height="12" fill="#E8501E"/>
+</g>
+</svg>

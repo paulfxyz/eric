@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Tamis — Hustin Bâtiment">
+<defs><clipPath id="c46"><circle cx="60" cy="60" r="41"/></clipPath></defs>
+<circle cx="60" cy="60" r="44" fill="none" stroke="#191817" stroke-width="5"/>
+<g clip-path="url(#c46)" stroke="#191817" stroke-width="2">
+<line x1="32" y1="16" x2="32" y2="104"/><line x1="46" y1="16" x2="46" y2="104"/><line x1="60" y1="16" x2="60" y2="104"/><line x1="74" y1="16" x2="74" y2="104"/><line x1="88" y1="16" x2="88" y2="104"/>
+<line x1="16" y1="32" x2="104" y2="32"/><line x1="16" y1="46" x2="104" y2="46"/><line x1="16" y1="60" x2="104" y2="60"/><line x1="16" y1="74" x2="104" y2="74"/><line x1="16" y1="88" x2="104" y2="88"/>
+</g>
+<circle cx="74" cy="46" r="4" fill="#E8501E"/>
+</svg>

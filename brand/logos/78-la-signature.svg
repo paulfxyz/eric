@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-label="La Signature — Hustin Bâtiment">
+<path d="M28 86 V38 H76 V86" fill="none" stroke="#191817" stroke-width="7"/>
+<rect x="21" y="84" width="14" height="6" fill="#E8501E"/>
+<rect x="69" y="84" width="14" height="6" fill="#E8501E"/>
+<text x="52" y="76" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:19px;font-weight:850;letter-spacing:0.5px" fill="#191817">HB</text>
+<line x1="98" y1="34" x2="98" y2="88" stroke="#191817" stroke-width="1.8"/>
+<text x="118" y="62" text-anchor="start" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:29px;font-weight:900;letter-spacing:1.5px" fill="#191817">HUSTIN</text>
+<text x="118" y="84" text-anchor="start" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:600;letter-spacing:5.8px" fill="#191817">BÂTIMENT</text>
+</svg>

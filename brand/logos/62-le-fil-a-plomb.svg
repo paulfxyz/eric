@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Fil à plomb — Hustin Bâtiment">
+<rect x="50" y="8" width="20" height="6" fill="#191817"/>
+<line x1="60" y1="14" x2="60" y2="68" stroke="#191817" stroke-width="2.4"/>
+<path d="M60 98 L48 76 V68 H72 V76 Z" fill="#191817"/>
+<circle cx="60" cy="106" r="3.5" fill="#E8501E"/>
+<line x1="36" y1="113" x2="84" y2="113" stroke="#191817" stroke-width="3"/>
+</svg>

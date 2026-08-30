@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Le Portique HB — Hustin Bâtiment">
+<path d="M26 104 V33 H94 V104" fill="none" stroke="#191817" stroke-width="10"/>
+<rect x="16" y="102" width="20" height="8" fill="#E8501E"/>
+<rect x="84" y="102" width="20" height="8" fill="#E8501E"/>
+<text x="60" y="86" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:34px;font-weight:850;letter-spacing:1px" fill="#191817">HB</text>
+</svg>

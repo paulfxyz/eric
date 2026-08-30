@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="fr" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hustin Bâtiment — README du cadeau</title>
+<meta name="description" content="Un site tout neuf pour Tonton Éric & Loulou — cadeau de Paul. / A brand-new site for Uncle Éric & Loulou — a gift from Paul.">
+<link rel="icon" type="image/svg+xml" href="../brand/favicon.svg?v=2">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+<script>
+(function(){var t=null;try{var m=document.cookie.match(/(?:^|; )hb-theme=([^;]*)/);t=m?m[1]:null}catch(e){}
+if(!t&&window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)t='dark';
+if(t)document.documentElement.setAttribute('data-theme',t);})();
+</script>
+<style>
+:root{
+  --bg:#FAFAF7; --ink:#1E1D1B; --muted:#75736C; --line:rgba(30,29,27,.14);
+  --card:#F2F1EC; --codebg:#1E1D1B; --codefg:#EDECE8;
+  --f:'Instrument Sans',system-ui,sans-serif;
+}
+html[data-theme="dark"]{
+  --bg:#151514; --ink:#EDECE8; --muted:#9B9992; --line:rgba(237,236,232,.16);
+  --card:#1D1D1B; --codebg:#0F0F0E; --codefg:#DCDBD5;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--f);background:var(--bg);color:var(--ink);line-height:1.68;-webkit-font-smoothing:antialiased;transition:background .35s,color .35s}
+.wrap{max-width:860px;margin:0 auto;padding:clamp(1.5rem,5vw,4rem)}
+h1{font-weight:600;letter-spacing:-.02em;font-size:clamp(1.8rem,4.6vw,2.8rem);line-height:1.08;margin:0 0 1rem}
+h2{font-weight:600;letter-spacing:-.01em;font-size:clamp(1.2rem,2.8vw,1.55rem);margin:2.8rem 0 .9rem;padding-top:1.3rem;border-top:1px solid var(--line)}
+p,li{font-size:.98rem}
+p{margin:.7rem 0}
+ul{margin:.7rem 0 .9rem 1.2rem}
+li{margin:.38rem 0}
+a{color:inherit;text-decoration:none;border-bottom:1px solid var(--muted)}
+a:hover{border-bottom-color:var(--ink)}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.85em;background:var(--card);padding:.12em .4em;border:1px solid var(--line);border-radius:3px}
+pre{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.8rem;background:var(--codebg);color:var(--codefg);padding:1.1rem 1.3rem;overflow-x:auto;margin:1rem 0;line-height:1.55;border-radius:4px}
+pre code{background:none;border:none;color:inherit;padding:0}
+table{width:100%;border-collapse:collapse;font-size:.92rem;margin:1rem 0 1.4rem}
+td,th{border:1px solid var(--line);padding:.55rem .7rem;text-align:left;vertical-align:top}
+em{color:var(--muted);font-style:italic}
+strong{font-weight:600}
+.eyebrow{font-size:.7rem;letter-spacing:.32em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:1rem}
+.bar{display:flex;gap:.5rem;align-items:center;justify-content:space-between;margin-bottom:2rem}
+.bar .left{display:flex;gap:.5rem}
+.btn{font:inherit;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;background:none;border:1px solid var(--line);color:var(--ink);padding:.5rem .9rem;cursor:pointer;border-radius:2px;transition:border-color .2s}
+.btn:hover{border-color:var(--ink)}
+.btn.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.dl{display:inline-block;font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--bg);background:var(--ink);padding:.68rem 1.15rem;border:none;margin:.2rem 0 1.6rem;border-radius:2px}
+.dl:hover{opacity:.85}
+.shots{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;margin:1.1rem 0}
+.shots img{width:100%;border:1px solid var(--line);display:block;border-radius:3px}
+.lang-en{display:none}
+html[data-lang="en"] .lang-fr{display:none}
+html[data-lang="en"] .lang-en{display:block}
+@media(max-width:600px){.shots{grid-template-columns:1fr}}
+@media print{.bar,.dl{display:none!important}body{background:#fff;color:#111}.lang-en{display:none!important}.lang-fr{display:block!important}img,table,pre,blockquote{break-inside:avoid}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="bar">
+  <div class="left">
+    <button class="btn on" id="bFr" type="button">FR</button>
+    <button class="btn" id="bEn" type="button">EN</button>
+  </div>
+  <button class="btn" id="bTheme" type="button" aria-label="Thème">◐</button>
+</div>
+
+<!-- ============================== FR ============================== -->
+<div class="lang-fr">
+<span class="eyebrow">Hustin Bâtiment — README</span>
+<a class="dl" href="../readme.pdf" download>Télécharger le PDF</a>
+<h1>Un site tout neuf pour Tonton Éric &amp; Loulou</h1>
+<p><em>Maquette non officielle de <a href="https://hustinbatiment.fr">hustinbatiment.fr</a> —
+un cadeau de Paul, le neveu. Fabriqué avec mon atelier d’agents IA, avec amour et un peu
+de béton dans les veines.</em></p>
+
+<table>
+<tbody>
+<tr><td><strong>Le site</strong></td><td><a href="https://paulfleury.com/eric">paulfleury.com/eric</a></td></tr>
+<tr><td><strong>Brand book</strong></td><td><a href="https://paulfleury.com/eric/brand">paulfleury.com/eric/brand</a> — 130 pistes de logo, à feuilleter tranquillement</td></tr>
+<tr><td><strong>Code source</strong></td><td><a href="https://github.com/paulfxyz/eric">github.com/paulfxyz/eric</a> (public) · <a href="https://paulfleury.com/eric/dump.zip">dump.zip</a> — tout le site, prêt à emporter</td></tr>
+<tr><td><strong>Ce document</strong></td><td><a href="https://paulfleury.com/eric/readme">/eric/readme</a> (FR/EN) · <a href="https://paulfleury.com/eric/readme.pdf">PDF</a></td></tr>
+</tbody>
+</table>
+
+<h2>L’idée, en 60 secondes</h2>
+<ul>
+<li><strong>Un one-page sobre et haut de gamme</strong>, à l’image de vos chantiers : typographie
+  précise, de la lumière, de la matière, mode clair et mode sombre, animations discrètes.</li>
+<li><strong>12 langues</strong> : français par défaut, puis anglais, allemand, espagnol, italien,
+  néerlandais, portugais, russe, chinois, japonais — plus l’arabe et l’hébreu, entièrement en écriture
+  de droite à gauche. Vos clients sur la Côte viennent du monde entier ; leur parler leur langue,
+  c’est déjà les recevoir.</li>
+<li><strong>Tout votre vrai contenu</strong>, relu et repoli : les 4 métiers, le béton architectonique,
+  l’histoire de famille (de père en fils, forcément), l’équipe, les moyens, les engagements,
+  les réalisations en fiches avec galeries, les avis Google, la FAQ.</li>
+<li><strong>Un portfolio extensible</strong> : vos 6 chantiers réels + un aperçu « démo » de 30 fiches
+  avec images générées, pour voir le rendu le jour où vous m’envoyez vos vraies photos —
+  avec filtres par lieu, type, technique et statut.</li>
+<li><strong>Prise de contact aux petits oignons</strong> : rendez-vous (calendrier), message, appel
+  direct, WhatsApp — vos coordonnées exactes.</li>
+<li><strong>Une identité dessinée</strong> : 130 propositions de logo sur
+  <a href="https://paulfleury.com/eric/brand">/eric/brand</a> — aucune imposée, on en parle
+  autour d’un café.</li>
+</ul>
+<div class="shots">
+<img alt="Aperçu du site — accueil" src="../docs/shots/hero.jpg" loading="lazy" decoding="async">
+<img alt="Aperçu du site — réalisations" src="../docs/shots/realisations.jpg" loading="lazy" decoding="async">
+</div>
+
+<h2>Aucun jugement sur le site actuel, hein</h2>
+<p>Tonton, ton site actuel est très bien — propre, à jour, il fait le travail. C’est juste que
+mon atelier d’agents IA fait des choses que peu d’agences livrent à ce niveau de détail, et
+que j’avais envie de vous montrer ce que ça donne pour vous : un style sur mesure, des
+fonctionnalités vraiment utiles, et surtout les langues étrangères pour la clientèle
+internationale — anglaise, russe, du Golfe — qui fait construire sur la Côte. De la vraie
+valeur, pas un gadget.</p>
+
+<h2>C’est un cadeau, point</h2>
+<p><strong>Ce site est offert, entièrement.</strong> Pas de facture, pas de prestation à vendre, pas de
+« phase 2 » cachée. La mise en ligne est toute simple — <strong>deux ou trois choses à me donner, détaillées juste
+en dessous, e basta così</strong> : je mets tout en ligne, à mes frais, et c’est à vous.
+Et si un jour vous voulez tout reprendre sans moi :
+<a href="https://paulfleury.com/eric/dump.zip"><strong>paulfleury.com/eric/dump.zip</strong></a> contient
+l’intégralité (code, 12 langues, brand book, ce document), librement adaptable par n’importe
+qui — le code est aussi public sur <a href="https://github.com/paulfxyz/eric">GitHub</a>.</p>
+<p><strong>Loulou, ce site est autant pour toi que pour ton père.</strong> Tout est rangé simplement :
+un fichier par langue, des fichiers de données lisibles pour les chantiers, zéro abonnement,
+zéro maintenance. Et pour la suite, c’est encore plus simple : un changement de texte, un
+chantier à ajouter ou à retirer, le formulaire ou les contacts à modifier — tu me dis direct,
+c’est fait.</p>
+<p><strong>Avant tout ça, le mieux : envoyez-moi de la matière.</strong> Plus de photos, plus de
+projets, plus d’infos — on enrichit le contenu ensemble, facile et rapide. Concrètement,
+j’ai juste besoin d’<strong>un gros ZIP</strong> avec toutes les photos, et les explications dans des
+fichiers Word ou .txt, tout simplement.</p>
+<p><strong>Puis, pour la mise en ligne propre, il me faut deux choses :</strong></p>
+<ul>
+<li>le <strong>compte FTP</strong> ou l’accès au site actuel ;</li>
+<li>la confirmation du <strong>numéro public</strong> (aujourd’hui 06 19 75 39 61 et le fixe
+  04 93 65 01 15), du <strong>numéro WhatsApp</strong> et de l’<strong>e-mail</strong> qui recevra les prises de
+  rendez-vous, les messages et les notifications en tout genre.</li>
+</ul>
+<p>Et je mets le site en ligne, clean — en retirant bien sûr toutes les fiches démo générées.</p>
+<p>Et pour la transparence sur ce que ça m’a coûté : environ <strong>3 heures d’opérations</strong> sur mon
+réseau multi-agents et multi-modèles, qui a consommé <strong>environ 600 € de tokens sur 7–8 heures
+de calcul</strong> — un dimanche, tranquillement, en parallèle du site de Chichi
+(<a href="https://paulfleury.com/chichi">villa contemporaine</a>) et de deux-trois petites choses
+chez Openline. Un week-end de famille, en somme. Et pas grave pour la dépense : c’est de
+bon cœur et avec grand plaisir — je suis vraiment satisfait du résultat, ça fait un très
+joli site, très bien pensé pour votre entreprise.</p>
+
+<h2>La seule chose que je demande</h2>
+<p>Un coup de main de réseau, rien d’autre. C’est un p’tit cadeau, mais je compte sur vous
+deux : si autour de vous <strong>une ou deux personnes de confiance</strong> peuvent être intéressées
+par un ticket dans <strong>Openline</strong> (<a href="https://openline.com">openline.com</a>), ma société
+d’eSIM, parlez-leur de moi — et si l’envie vous prend d’en prendre un vous-mêmes, vous seriez
+évidemment les bienvenus. C’est mon tour de table « Friends &amp; Family », détaillé sur
+<a href="https://paulfleury.com/chichi/readme">paulfleury.com/chichi/readme</a> et dans le dossier
+investisseur <a href="https://invest.openline.com">invest.openline.com</a> (PIN <code>0000</code>,
+slide Friends &amp; Family). L’essentiel :</p>
+<ul>
+<li><strong>Tickets de 20 à 50 K€</strong> (minimum 20 K€), environ 100 K€ encore disponibles — pour le
+  lancement et la croissance publicitaire, en attendant le post-seed déjà signé avec
+  <a href="https://www.redbud.vc">Redbud VC</a> (versement des fonds fin T4 / début T1 — fin décembre 2026, début janvier 2027).</li>
+<li><strong>Liquidité directe</strong>, en nom propre ou via une société ; <strong>principal remboursable à
+  12 mois</strong> ou <strong>convertible en actions (clause MFN)</strong> — valorisation d’environ 7,5 M$ retenue au
+  titre de la clause MFN, vraisemblablement 15–20 M$ lors d’une Series A d’ici moins de 5 ans.</li>
+<li><strong>Le marché</strong> : Airalo, leader mondial de l’eSIM pour les voyageurs, a levé en juillet 2025 220 M$ en Series C
+  menée par CVC, valorisée à plus d’un milliard de dollars
+  (<a href="https://www.cvc.com/media/news/2025/airalo-becomes-the-first-esim-unicorn-with-an-investment-round-of-220m/">annonce CVC</a> ·
+  <a href="https://www.forbes.com/sites/yessarrosendar/2025/07/11/singapores-airalo-becomes-unicorn-after-raising-220-million-in-cvc-led-round/">Forbes</a>).</li>
+<li><strong>La famille est déjà dedans</strong> : Pierre Fongarnand 20 K€, Clément Bourgeois 10 K€,
+  entre autres.</li>
+</ul>
+<p>Une mise en relation qui aboutit vaut infiniment plus que n’importe quelle facture. Si vous voyez la
+bonne personne, appelez-moi — et sinon, le site reste un cadeau, sans condition.</p>
+<p><strong>Paul</strong> — <a href="mailto:hello@paulfleury.com">hello@paulfleury.com</a> ·
+<a href="https://paulfleury.com">paulfleury.com</a> · <a href="https://www.linkedin.com/in/paulfxyz/">LinkedIn</a></p>
+
+<h2>Structure du projet</h2>
+<pre><code>eric/
+├── index.html          # one-page (12 langues, clair/sombre)
+├── css/style.css       # design system : Instrument Sans, minimalisme architectural
+├── js/app.js           # i18n, modales, rendez-vous, galeries, effets
+├── js/langs.js         # manifeste des 12 langues
+├── js/demo-projects.js # les 30 fiches d’aperçu (à remplacer par vos vraies photos)
+├── i18n/{fr,en,de,es,it,nl,pt,ru,zh,ja,ar,he}.json
+├── img/                # vos photos (optimisées) + img/demo/ (images générées)
+├── brand/              # brand book : 130 propositions de logo
+├── docs/shots/         # captures pour le README
+└── readme/             # ce document (FR/EN) — readme.pdf à la racine
+</code></pre>
+<p><em>Maquette non officielle réalisée à partir du contenu public de hustinbatiment.fr — photos
+© Hustin Bâtiment. Les fiches « démo » utilisent des images générées, signalées comme telles.
+Ce document n’est pas une offre de titres ; les termes d’investissement sont indicatifs et à
+formaliser contractuellement.</em></p>
+</div>
+
+<!-- ============================== EN ============================== -->
+<div class="lang-en">
+<span class="eyebrow">Hustin Bâtiment — README</span>
+<a class="dl" href="../readme.pdf" download>Download the PDF (French)</a>
+<h1>A brand-new site for Uncle Éric &amp; Loulou</h1>
+<p><em>Unofficial mockup of <a href="https://hustinbatiment.fr">hustinbatiment.fr</a> — a gift
+from Paul, the nephew. Built with my AI-agent workshop, with love and a bit of concrete
+in my veins.</em></p>
+
+<table>
+<tbody>
+<tr><td><strong>The site</strong></td><td><a href="https://paulfleury.com/eric">paulfleury.com/eric</a></td></tr>
+<tr><td><strong>Brand book</strong></td><td><a href="https://paulfleury.com/eric/brand">paulfleury.com/eric/brand</a> — 130 logo directions, to browse over a coffee</td></tr>
+<tr><td><strong>Source code</strong></td><td><a href="https://github.com/paulfxyz/eric">github.com/paulfxyz/eric</a> (public) · <a href="https://paulfleury.com/eric/dump.zip">dump.zip</a> — the whole site, ready to take away</td></tr>
+<tr><td><strong>This document</strong></td><td><a href="https://paulfleury.com/eric/readme">/eric/readme</a> (FR/EN) · <a href="https://paulfleury.com/eric/readme.pdf">PDF</a></td></tr>
+</tbody>
+</table>
+
+<h2>The idea, in 60 seconds</h2>
+<ul>
+<li><strong>A restrained, high-end one-pager</strong>, built like your projects: precise typography,
+  daylight, materiality, light and dark modes, discreet animations.</li>
+<li><strong>12 languages</strong>: French by default, then English, German, Spanish, Italian, Dutch,
+  Portuguese, Russian, Chinese, Japanese — plus Arabic and Hebrew in full right-to-left.
+  Your Riviera clients come from everywhere; speaking their language is already a form of
+  welcome.</li>
+<li><strong>All your real content</strong>, reviewed and polished: the 4 trades, architectural concrete,
+  the family story (father to son, of course), the team, the equipment, the commitments,
+  project sheets with galleries, Google reviews, FAQ.</li>
+<li><strong>An expandable portfolio</strong>: your 6 real projects + a 30-sheet “demo” preview with
+  generated images, so you can see how it will look once you send me your real photos — with filters
+  by location, type, technique and status.</li>
+<li><strong>Contact done properly</strong>: appointments (calendar), message, direct call, WhatsApp —
+  your exact details.</li>
+<li><strong>A drawn identity</strong>: 130 logo proposals on
+  <a href="https://paulfleury.com/eric/brand">/eric/brand</a> — none imposed, we’ll talk it
+  over coffee.</li>
+</ul>
+<div class="shots">
+<img alt="Site preview — home" src="../docs/shots/hero.jpg" loading="lazy" decoding="async">
+<img alt="Site preview — projects" src="../docs/shots/realisations.jpg" loading="lazy" decoding="async">
+</div>
+
+<h2>No judgement on the current site, promise</h2>
+<p>Tonton, your current site is perfectly fine — clean, up to date, it does the job. It’s just
+that my AI-agent workshop produces things few agencies deliver at this level of detail, and
+I wanted to show you both what that looks like for you: a tailor-made style, genuinely
+useful features, and above all foreign languages for the international clientele — English,
+Russian, Gulf — building on the Riviera. Real value, not a gimmick.</p>
+
+<h2>It’s a gift, full stop</h2>
+<p><strong>This site is offered, entirely.</strong> No invoice, no service to sell, no hidden “phase 2”.
+Going live is simple — <strong>two or three things to send me, detailed just below, e basta
+così</strong>: I put everything online, at my expense, and it’s yours. And if one day you want to take it all
+without me: <a href="https://paulfleury.com/eric/dump.zip"><strong>paulfleury.com/eric/dump.zip</strong></a>
+contains everything (code, 12 languages, brand book, this document), freely adaptable by
+anyone — the code is also public on <a href="https://github.com/paulfxyz/eric">GitHub</a>.</p>
+<p><strong>Loulou, this site is as much yours as your father’s.</strong> Everything is tidily organised:
+one file per language, readable data files for the projects, zero subscriptions, zero
+maintenance. And going forward it’s even simpler: a text to change, a project to add or
+remove, the form or contact details to update — just tell me, it’s done.</p>
+<p><strong>Before all that, the best thing: send me material.</strong> More photos, more projects,
+more information — we’ll enrich the content together, quick and easy. Concretely, all I
+need is <strong>one big ZIP</strong> with all the photos, and the explanations in simple Word or
+.txt files.</p>
+<p><strong>Then, to put the site live cleanly, I need two things:</strong></p>
+<ul>
+<li>the <strong>FTP account</strong> or access to the current site;</li>
+<li>confirmation of the <strong>public phone number</strong> (currently 06 19 75 39 61 and the landline
+  04 93 65 01 15), the <strong>WhatsApp number</strong> and the <strong>e-mail address</strong> that will receive
+  appointment requests, messages and notifications of all kinds.</li>
+</ul>
+<p>And I put the site online, clean — removing, of course, all the generated demo sheets.</p>
+<p>And in the interest of transparency about what it cost me: about <strong>3 hours of hands-on work</strong>
+on my multi-agent, multi-model network, which burned <strong>roughly €600 in tokens across a 7–8
+hour run</strong> — on a quiet Sunday, alongside Chichi’s site
+(<a href="https://paulfleury.com/chichi">villa contemporaine</a>) and a couple of small things
+at Openline. A family weekend, in every sense. And the expense really doesn’t matter: it
+was wholehearted and a genuine pleasure — I’m truly happy with the result, it makes for a
+very pretty site, thought through for your company.</p>
+
+<h2>The only thing I ask</h2>
+<p>A hand with your network, nothing else. It’s a small gift, but I’m counting on you two:
+if around you <strong>one or two trusted people</strong> might be interested in a ticket in
+<strong>Openline</strong> (<a href="https://openline.com">openline.com</a>), my eSIM company, tell them
+about me — and if you feel like taking one yourselves, you would obviously be most welcome. It’s my
+Friends &amp; Family round, detailed on
+<a href="https://paulfleury.com/chichi/readme">paulfleury.com/chichi/readme</a> and in the
+investor deck <a href="https://invest.openline.com">invest.openline.com</a> (PIN <code>0000</code>,
+Friends &amp; Family slide). The essentials:</p>
+<ul>
+<li><strong>Tickets of €20–50K</strong> (minimum €20K), about €100K still available — funding launch
+  and advertising growth while the post-seed, already signed with
+  <a href="https://www.redbud.vc">Redbud VC</a>, lands at the turn of Q4/Q1 (late December 2026 / early January 2027).</li>
+<li><strong>Direct liquidity</strong>, personally or through a company; <strong>principal repayable at
+  12 months</strong> or <strong>convertible into shares (MFN clause)</strong> — around a $7.5M valuation under
+  the MFN clause, plausibly $15–20M in a Series A within less than 5 years.</li>
+<li><strong>The market</strong>: Airalo, the world’s leading travel eSIM provider, raised $220M in July 2025 in a
+  CVC-led Series C at a $1B+ valuation
+  (<a href="https://www.cvc.com/media/news/2025/airalo-becomes-the-first-esim-unicorn-with-an-investment-round-of-220m/">CVC announcement</a> ·
+  <a href="https://www.forbes.com/sites/yessarrosendar/2025/07/11/singapores-airalo-becomes-unicorn-after-raising-220-million-in-cvc-led-round/">Forbes</a>).</li>
+<li><strong>The family is already in</strong>: Pierre Fongarnand €20K, Clément Bourgeois €10K, among others.</li>
+</ul>
+<p>An intro that lands is worth infinitely more than any invoice. If you spot the right person,
+call me — and if not, the site remains a gift, no strings attached.</p>
+<p><strong>Paul</strong> — <a href="mailto:hello@paulfleury.com">hello@paulfleury.com</a> ·
+<a href="https://paulfleury.com">paulfleury.com</a> · <a href="https://www.linkedin.com/in/paulfxyz/">LinkedIn</a></p>
+
+<h2>Project structure</h2>
+<pre><code>eric/
+├── index.html          # one-page (12 languages, light/dark)
+├── css/style.css       # design system: Instrument Sans, architectural minimal
+├── js/app.js           # i18n, modals, appointments, galleries, effects
+├── js/langs.js         # manifest of the 12 languages
+├── js/demo-projects.js # the 30 preview sheets (to be replaced by your real photos)
+├── i18n/{fr,en,de,es,it,nl,pt,ru,zh,ja,ar,he}.json
+├── img/                # your photos (optimised) + img/demo/ (generated images)
+├── brand/              # brand book: 130 logo proposals
+├── docs/shots/         # captures for the README
+└── readme/             # this document (FR/EN) — readme.pdf at the root
+</code></pre>
+<p><em>Unofficial mockup based on the public content of hustinbatiment.fr — photos
+© Hustin Bâtiment. “Demo” sheets use generated images, labelled as such. This document is
+not an offer of securities; investment terms are indicative and subject to contract.</em></p>
+</div>
+
+</div>
+<script>
+(function(){
+  var html=document.documentElement;
+  function cookie(k,v){try{document.cookie=k+'='+v+'; path=/; max-age=31536000; SameSite=Lax'}catch(e){}}
+  function getc(k){try{var m=document.cookie.match(new RegExp('(?:^|; )'+k+'=([^;]*)'));return m?m[1]:null}catch(e){return null}}
+  var bFr=document.getElementById('bFr'),bEn=document.getElementById('bEn'),bT=document.getElementById('bTheme');
+  function setLang(l){html.setAttribute('data-lang',l);html.setAttribute('lang',l);bFr.classList.toggle('on',l==='fr');bEn.classList.toggle('on',l==='en');bT.setAttribute('aria-label',l==='fr'?'Thème':'Theme');cookie('hb-readme-lang',l);}
+  var saved=getc('hb-readme-lang');var h=(location.hash.match(/lang=(fr|en)/)||[])[1];
+  setLang(h||saved||'fr');
+  bFr.onclick=function(){setLang('fr')};bEn.onclick=function(){setLang('en')};
+  bT.onclick=function(){var d=html.getAttribute('data-theme')==='dark'?'light':'dark';html.setAttribute('data-theme',d);cookie('hb-theme',d);};
+})();
+</script>
+</body>
+</html>

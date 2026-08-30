@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-label="Côte d&#x27;Azur — Hustin Bâtiment">
+<line x1="30" y1="22" x2="290" y2="22" stroke="#191817" stroke-width="1.6"/>
+<path d="M26 26 L34 18 M286 26 L294 18" stroke="#E8501E" stroke-width="2.4"/>
+<line x1="30" y1="22" x2="30" y2="30" stroke="#191817" stroke-width="1.6"/>
+<line x1="290" y1="22" x2="290" y2="30" stroke="#191817" stroke-width="1.6"/>
+<text x="160" y="66" text-anchor="middle" style="font-family:'Archivo','Arial Black','Helvetica Neue',Arial,sans-serif;font-size:27px;font-weight:850;letter-spacing:1.5px" fill="#191817">HUSTIN BÂTIMENT</text>
+<line x1="30" y1="84" x2="290" y2="84" stroke="#191817" stroke-width="1.6"/>
+<text x="160" y="104" text-anchor="middle" style="font-family:'IBM Plex Mono','Courier New',monospace;font-size:9.5px;font-weight:500;letter-spacing:3px" fill="#E8501E">CÔTE D'AZUR — 06</text>
+</svg>
